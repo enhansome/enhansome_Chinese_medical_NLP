@@ -9,7 +9,7 @@
 # 术语集/语料库
 
 * [THUOCL](https://github.com/thunlp/THUOCL) ⭐ 1,111 | 🐛 6 | 📅 2023-04-03 清华大学thunlp组医学词汇
-* [medical-books](https://github.com/scienceasdf/medical-books) ⭐ 722 | 🐛 7 | 🌐 TeX | 📅 2019-04-01 中文LaTex开源医学书籍
+* [medical-books](https://github.com/scienceasdf/medical-books) ⭐ 723 | 🐛 7 | 🌐 TeX | 📅 2019-04-01 中文LaTex开源医学书籍
 * [ICD10](https://github.com/chaseliu/ICD-10-CN) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2017-05-03 ICD-10中文对应
 * [medical-news](https://github.com/flyyang/medical-news) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2017-05-24 中文医学新闻爬虫
 * [ICD9](https://athena.ohdsi.org/search-terms/terms?vocabulary=ICD9ProcCN\&page=1\&pageSize=15\&query=)  ICD-9中文对应
@@ -20,7 +20,7 @@
 # 词向量/预训练模型
 
 * [eHealth](https://github.com/PaddlePaddle/Research/tree/master/KG/eHealth) ⭐ 1,761 | 🐛 137 | 🌐 Python | 📅 2024-08-16 Building Chinese Biomedical Language Models via Multi-Level Text Discrimination
-* [ChineseEHRBert](https://github.com/GanjinZero/ChineseEHRBert) ⭐ 271 | 🐛 5 | 🌐 Python | 📅 2021-07-14 中文电子病历预训练Bert；用Bert测试命名实体识别，问答模型，关系提取任务
+* [ChineseEHRBert](https://github.com/GanjinZero/ChineseEHRBert) ⭐ 270 | 🐛 5 | 🌐 Python | 📅 2021-07-14 中文电子病历预训练Bert；用Bert测试命名实体识别，问答模型，关系提取任务
 * [Chinese-Word2vec-Medicine](https://github.com/WENGSYX/Chinese-Word2vec-Medicine) ⭐ 210 | 🐛 4 | 🌐 Python | 📅 2025-02-26 中文生物医学领域词向量
 * [medbert](https://github.com/trueto/medbert) ⭐ 134 | 🐛 6 | 🌐 Python | 📅 2021-04-28 BERT模型在中文临床自然语言处理中的应用探索与研究
 * [bertcner](https://github.com/lxy444/bertcner) ⭐ 129 | 🐛 15 | 🌐 Python | 📅 2021-04-15 用于命名实体识别的预训练的中文医学Bert模型
@@ -30,7 +30,7 @@
 
 # 分词
 
-* [PKUSEG](https://github.com/lancopku/pkuseg-python) ⭐ 6,713 | 🐛 135 | 🌐 Python | 📅 2022-11-05 PKUSEG分词工具，模型支持选择医学
+* [PKUSEG](https://github.com/lancopku/pkuseg-python) ⭐ 6,711 | 🐛 135 | 🌐 Python | 📅 2022-11-05 PKUSEG分词工具，模型支持选择医学
 * [cmekg医学分词工具](https://zstp.pcl.ac.cn:8002/download/mws) [github](https://github.com/king-yyf/CMeKG_tools) ⭐ 1,490 | 🐛 22 | 🌐 Python | 📅 2023-11-03 cmekg医学分词
 * [GTS](https://github.com/GanjinZero/GTS) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2022-01-28 包含922句粗细两种粒度标注的中文医学分词测试集
 
@@ -62,8 +62,8 @@
 # QA
 
 * [中文医疗对话数据集](https://github.com/Toyhom/Chinese-medical-dialogue-data) ⭐ 1,751 | 🐛 6 | 🌐 Python | 📅 2023-08-18 Chinese medical dialogue data 中文医疗对话数据集
-* [KGQA](https://github.com/YeYzheng/KGQA-Based-On-medicine) ⭐ 1,277 | 🐛 18 | 🌐 JavaScript | 📅 2019-01-31 基于医药知识图谱的智能问答系统
-* [chatbot-base-on-Knowledge-Graph](https://github.com/baiyang2464/chatbot-base-on-Knowledge-Graph) ⭐ 793 | 🐛 27 | 🌐 Python | 📅 2019-09-07 使用深度学习方法解析问题 知识图谱存储 查询知识点 基于医疗垂直领域的对话系统
+* [KGQA](https://github.com/YeYzheng/KGQA-Based-On-medicine) ⭐ 1,276 | 🐛 18 | 🌐 JavaScript | 📅 2019-01-31 基于医药知识图谱的智能问答系统
+* [chatbot-base-on-Knowledge-Graph](https://github.com/baiyang2464/chatbot-base-on-Knowledge-Graph) ⭐ 792 | 🐛 27 | 🌐 Python | 📅 2019-09-07 使用深度学习方法解析问题 知识图谱存储 查询知识点 基于医疗垂直领域的对话系统
 * [cMedQA2](https://github.com/zhangsheng93/cMedQA2) ⭐ 386 | 🐛 4 | 📅 2019-01-09 中文医学QA数据集
 * [cMedQA](https://github.com/zhangsheng93/cMedQA) ⭐ 113 | 🐛 2 | 📅 2019-10-22 中文医学QA数据集
 * [IMCS21](https://github.com/lemuria-wchen/imcs21-cblue) ⭐ 110 | 🐛 4 | 🌐 Python | 📅 2022-12-27 CBLUE\@Tianchi 中医疗对话数据集 IMCS21
@@ -98,4 +98,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
