@@ -65,7 +65,7 @@
 * [KGQA](https://github.com/YeYzheng/KGQA-Based-On-medicine) ⭐ 1,277 | 🐛 18 | 🌐 JavaScript | 📅 2019-01-31 基于医药知识图谱的智能问答系统
 * [chatbot-base-on-Knowledge-Graph](https://github.com/baiyang2464/chatbot-base-on-Knowledge-Graph) ⭐ 792 | 🐛 27 | 🌐 Python | 📅 2019-09-07 使用深度学习方法解析问题 知识图谱存储 查询知识点 基于医疗垂直领域的对话系统
 * [cMedQA2](https://github.com/zhangsheng93/cMedQA2) ⭐ 386 | 🐛 4 | 📅 2019-01-09 中文医学QA数据集
-* [cMedQA](https://github.com/zhangsheng93/cMedQA) ⭐ 113 | 🐛 2 | 📅 2019-10-22 中文医学QA数据集
+* [cMedQA](https://github.com/zhangsheng93/cMedQA) ⭐ 114 | 🐛 2 | 📅 2019-10-22 中文医学QA数据集
 * [IMCS21](https://github.com/lemuria-wchen/imcs21-cblue) ⭐ 110 | 🐛 4 | 🌐 Python | 📅 2022-12-27 CBLUE\@Tianchi 中医疗对话数据集 IMCS21
 * [CMID](https://github.com/liutongyang/CMID) ⭐ 1 | 🐛 2 | 📅 2023-01-03 中文医学QA意图理解数据集
 * [EMPEC](https://github.com/zhehengluoK/Examinations-for-Medical-PErsonnel-in-Chinese) ⭐ 1 | 🐛 0 | 📅 2024-02-23 Examinations-for-Medical-PErsonnel-in-Chinese (EMPEC)
@@ -98,4 +98,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
