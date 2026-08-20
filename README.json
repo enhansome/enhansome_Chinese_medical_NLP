@@ -1,8 +1,349 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "THUOCL",
+          "description": "清华大学thunlp组医学词汇",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 158491299,
+            "language": null,
+            "last_commit": "2023-04-03T01:21:32Z",
+            "owner": "thunlp",
+            "repo": "THUOCL",
+            "stars": 1114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "medical-books",
+          "description": "中文LaTex开源医学书籍",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 173288581,
+            "language": "TeX",
+            "last_commit": "2019-04-01T05:00:12Z",
+            "owner": "scienceasdf",
+            "repo": "medical-books",
+            "stars": 723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ICD10",
+          "description": "ICD-10中文对应",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90020830,
+            "language": "Python",
+            "last_commit": "2017-05-03T02:05:04Z",
+            "owner": "chaseliu",
+            "repo": "ICD-10-CN",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "medical-news",
+          "description": "中文医学新闻爬虫",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92055757,
+            "language": "Python",
+            "last_commit": "2017-05-24T14:29:06Z",
+            "owner": "flyyang",
+            "repo": "medical-news",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "术语集/语料库"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "eHealth",
+          "description": "Building Chinese Biomedical Language Models via Multi-Level Text Discrimination",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 240226378,
+            "language": "Python",
+            "last_commit": "2024-08-16T02:42:22Z",
+            "owner": "PaddlePaddle",
+            "repo": "Research",
+            "stars": 1762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChineseEHRBert",
+          "description": "中文电子病历预训练Bert；用Bert测试命名实体识别，问答模型，关系提取任务",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 214940727,
+            "language": "Python",
+            "last_commit": "2021-07-14T02:40:37Z",
+            "owner": "GanjinZero",
+            "repo": "ChineseEHRBert",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chinese-Word2vec-Medicine",
+          "description": "中文生物医学领域词向量",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 375235521,
+            "language": "Python",
+            "last_commit": "2025-02-26T19:12:26Z",
+            "owner": "WENGSYX",
+            "repo": "Chinese-Word2vec-Medicine",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "medbert",
+          "description": "BERT模型在中文临床自然语言处理中的应用探索与研究",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 351619781,
+            "language": "Python",
+            "last_commit": "2021-04-28T15:47:23Z",
+            "owner": "trueto",
+            "repo": "medbert",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bertcner",
+          "description": "用于命名实体识别的预训练的中文医学Bert模型",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 227759193,
+            "language": "Python",
+            "last_commit": "2021-04-15T09:01:17Z",
+            "owner": "lxy444",
+            "repo": "bertcner",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMedBERT",
+          "description": "SMedBERT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 372204217,
+            "language": "Python",
+            "last_commit": "2021-11-17T05:44:50Z",
+            "owner": "MatNLP",
+            "repo": "SMedBERT",
+            "stars": 84
+          }
+        }
+      ],
+      "title": "词向量/预训练模型"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PKUSEG",
+          "description": "PKUSEG分词工具，模型支持选择医学",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143589809,
+            "language": "Python",
+            "last_commit": "2022-11-05T13:37:41Z",
+            "owner": "lancopku",
+            "repo": "pkuseg-python",
+            "stars": 6710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cmekg医学分词工具",
+          "description": "github cmekg医学分词",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 418993137,
+            "language": "Python",
+            "last_commit": "2023-11-03T03:18:58Z",
+            "owner": "king-yyf",
+            "repo": "CMeKG_tools",
+            "stars": 1492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GTS",
+          "description": "包含922句粗细两种粒度标注的中文医学分词测试集",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 229002491,
+            "language": "Python",
+            "last_commit": "2022-01-28T01:43:26Z",
+            "owner": "GanjinZero",
+            "repo": "GTS",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "分词"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "中文医疗对话数据集",
+          "description": "Chinese medical dialogue data 中文医疗对话数据集",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 226781922,
+            "language": "Python",
+            "last_commit": "2023-08-18T05:34:28Z",
+            "owner": "Toyhom",
+            "repo": "Chinese-medical-dialogue-data",
+            "stars": 1752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KGQA",
+          "description": "基于医药知识图谱的智能问答系统",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 126259224,
+            "language": "JavaScript",
+            "last_commit": "2019-01-31T08:45:19Z",
+            "owner": "YeYzheng",
+            "repo": "KGQA-Based-On-medicine",
+            "stars": 1277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chatbot-base-on-Knowledge-Graph",
+          "description": "使用深度学习方法解析问题 知识图谱存储 查询知识点 基于医疗垂直领域的对话系统",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 203790396,
+            "language": "Python",
+            "last_commit": "2019-09-07T09:09:25Z",
+            "owner": "baiyang2464",
+            "repo": "chatbot-base-on-Knowledge-Graph",
+            "stars": 792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cMedQA2",
+          "description": "中文医学QA数据集",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156634102,
+            "language": null,
+            "last_commit": "2019-01-09T01:09:09Z",
+            "owner": "zhangsheng93",
+            "repo": "cMedQA2",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cMedQA",
+          "description": "中文医学QA数据集",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87072617,
+            "language": null,
+            "last_commit": "2019-10-22T08:03:29Z",
+            "owner": "zhangsheng93",
+            "repo": "cMedQA",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IMCS21",
+          "description": "CBLUE@Tianchi 中医疗对话数据集 IMCS21",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 451294217,
+            "language": "Python",
+            "last_commit": "2022-12-27T02:10:03Z",
+            "owner": "lemuria-wchen",
+            "repo": "imcs21-cblue",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMID",
+          "description": "中文医学QA意图理解数据集",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216487994,
+            "language": null,
+            "last_commit": "2023-01-03T12:40:40Z",
+            "owner": "liutongyang",
+            "repo": "CMID",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EMPEC",
+          "description": "Examinations-for-Medical-PErsonnel-in-Chinese (EMPEC)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 669026741,
+            "language": null,
+            "last_commit": "2024-02-23T05:44:00Z",
+            "owner": "zhehengluoK",
+            "repo": "Examinations-for-Medical-PErsonnel-in-Chinese",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "QA"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-19T02:52:47.228Z",
+    "last_updated": "2026-08-20T02:52:23.318Z",
     "original_repository": "GanjinZero/awesome_Chinese_medical_NLP",
+    "original_repository_id": 218430828,
     "original_repository_sha": "794326e5d53bcce46032d2b18d2067977957655c",
     "enhanced_repository": "enhansome/enhansome_Chinese_medical_NLP",
     "enhanced_repository_description": null,
