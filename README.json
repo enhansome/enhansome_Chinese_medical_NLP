@@ -30,7 +30,7 @@
             "last_commit": "2019-04-01T05:00:12Z",
             "owner": "scienceasdf",
             "repo": "medical-books",
-            "stars": 723
+            "stars": 724
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2024-08-16T02:42:22Z",
             "owner": "PaddlePaddle",
             "repo": "Research",
-            "stars": 1762
+            "stars": 1761
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2022-11-05T13:37:41Z",
             "owner": "lancopku",
             "repo": "pkuseg-python",
-            "stars": 6710
+            "stars": 6711
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2023-11-03T03:18:58Z",
             "owner": "king-yyf",
             "repo": "CMeKG_tools",
-            "stars": 1492
+            "stars": 1491
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2023-08-18T05:34:28Z",
             "owner": "Toyhom",
             "repo": "Chinese-medical-dialogue-data",
-            "stars": 1752
+            "stars": 1753
           }
         },
         {
@@ -341,7 +341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:52:23.318Z",
+    "last_updated": "2026-08-21T02:57:17.548Z",
     "original_repository": "GanjinZero/awesome_Chinese_medical_NLP",
     "original_repository_id": 218430828,
     "original_repository_sha": "794326e5d53bcce46032d2b18d2067977957655c",
