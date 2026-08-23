@@ -19,7 +19,7 @@
 
 # 词向量/预训练模型
 
-* [eHealth](https://github.com/PaddlePaddle/Research/tree/master/KG/eHealth) ⭐ 1,761 | 🐛 137 | 🌐 Python | 📅 2024-08-16 Building Chinese Biomedical Language Models via Multi-Level Text Discrimination
+* [eHealth](https://github.com/PaddlePaddle/Research/tree/master/KG/eHealth) ⭐ 1,762 | 🐛 137 | 🌐 Python | 📅 2024-08-16 Building Chinese Biomedical Language Models via Multi-Level Text Discrimination
 * [ChineseEHRBert](https://github.com/GanjinZero/ChineseEHRBert) ⭐ 270 | 🐛 5 | 🌐 Python | 📅 2021-07-14 中文电子病历预训练Bert；用Bert测试命名实体识别，问答模型，关系提取任务
 * [Chinese-Word2vec-Medicine](https://github.com/WENGSYX/Chinese-Word2vec-Medicine) ⭐ 210 | 🐛 4 | 🌐 Python | 📅 2025-02-26 中文生物医学领域词向量
 * [medbert](https://github.com/trueto/medbert) ⭐ 134 | 🐛 6 | 🌐 Python | 📅 2021-04-28 BERT模型在中文临床自然语言处理中的应用探索与研究
@@ -31,12 +31,12 @@
 # 分词
 
 * [PKUSEG](https://github.com/lancopku/pkuseg-python) ⭐ 6,711 | 🐛 135 | 🌐 Python | 📅 2022-11-05 PKUSEG分词工具，模型支持选择医学
-* [cmekg医学分词工具](https://zstp.pcl.ac.cn:8002/download/mws) [github](https://github.com/king-yyf/CMeKG_tools) ⭐ 1,492 | 🐛 22 | 🌐 Python | 📅 2023-11-03 cmekg医学分词
+* [cmekg医学分词工具](https://zstp.pcl.ac.cn:8002/download/mws) [github](https://github.com/king-yyf/CMeKG_tools) ⭐ 1,493 | 🐛 22 | 🌐 Python | 📅 2023-11-03 cmekg医学分词
 * [GTS](https://github.com/GanjinZero/GTS) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2022-01-28 包含922句粗细两种粒度标注的中文医学分词测试集
 
 # 知识图谱 / 关系提取
 
-* [cMeKG](http://zstp.pcl.ac.cn:8002/) [github](https://github.com/king-yyf/CMeKG_tools) ⭐ 1,492 | 🐛 22 | 🌐 Python | 📅 2023-11-03 Chinese Medical Knowledge Graph
+* [cMeKG](http://zstp.pcl.ac.cn:8002/) [github](https://github.com/king-yyf/CMeKG_tools) ⭐ 1,493 | 🐛 22 | 🌐 Python | 📅 2023-11-03 Chinese Medical Knowledge Graph
 * [瑞金医院人工智能辅助构建知识图谱大赛](https://tianchi.aliyun.com/competition/entrance/231687/introduction) 糖尿病相关的学术论文以及糖尿病临床指南的实体标注和抽取实体关系任务
 * [OMAHA知识图谱（药品适应症）](http://openkg.cn/dataset/omaha-kg) 开放医疗与健康联盟（Open Medical and Healthcare Alliance，OMAHA）构建的药品与药品适应证的知识图谱数据
 * [医疗知识图谱数据](http://openkg.cn/dataset/medical) 医疗知识图谱数据（ownthink）
@@ -98,4 +98,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
