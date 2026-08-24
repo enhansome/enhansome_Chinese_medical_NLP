@@ -338,10 +338,52 @@
         }
       ],
       "title": "QA"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CHIP2019",
+          "description": "临床试验筛选标准短文本分类",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313663192,
+            "language": "Python",
+            "last_commit": "2022-05-12T04:04:33Z",
+            "owner": "zonghui0228",
+            "repo": "chip2019task3",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "文本分类"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CCLUE",
+          "description": "中文临床自然语言处理算法评估基准",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279242288,
+            "language": "Python",
+            "last_commit": "2020-07-15T13:59:29Z",
+            "owner": "trueto",
+            "repo": "CCLUE",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "其他"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:57:57.263Z",
+    "last_updated": "2026-08-24T14:02:36.609Z",
     "original_repository": "GanjinZero/awesome_Chinese_medical_NLP",
     "original_repository_id": 218430828,
     "original_repository_sha": "794326e5d53bcce46032d2b18d2067977957655c",

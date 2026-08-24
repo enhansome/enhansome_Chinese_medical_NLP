@@ -91,9 +91,9 @@
 
 # 其他
 
+* [CCLUE](https://github.com/trueto/CCLUE) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2020-07-15 中文临床自然语言处理算法评估基准
 * [CHIP2018](https://www.biendata.com/competition/chip2018/) 针对中文的真实患者健康咨询语料，进行问句意图匹配
 * [CHIP2019](https://www.biendata.com/competition/chip2019/) 平安医疗科技疾病问答迁移学习比赛
-* [CCLUE](https://github.com/trueto/CCLUE) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2020-07-15 中文临床自然语言处理算法评估基准
 * [CCKS2021](http://sigkg.cn/ccks2021/?page_id=27) 面向中文医疗科普知识的内容理解
 
 ***
