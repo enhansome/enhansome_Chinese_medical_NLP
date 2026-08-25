@@ -30,7 +30,7 @@
             "last_commit": "2019-04-01T05:00:12Z",
             "owner": "scienceasdf",
             "repo": "medical-books",
-            "stars": 724
+            "stars": 725
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2024-08-16T02:42:22Z",
             "owner": "PaddlePaddle",
             "repo": "Research",
-            "stars": 1762
+            "stars": 1763
           }
         },
         {
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:02:36.609Z",
+    "last_updated": "2026-08-25T02:53:29.661Z",
     "original_repository": "GanjinZero/awesome_Chinese_medical_NLP",
     "original_repository_id": 218430828,
     "original_repository_sha": "794326e5d53bcce46032d2b18d2067977957655c",
