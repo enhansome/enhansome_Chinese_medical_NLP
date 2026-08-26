@@ -177,7 +177,7 @@
             "last_commit": "2022-11-05T13:37:41Z",
             "owner": "lancopku",
             "repo": "pkuseg-python",
-            "stars": 6711
+            "stars": 6710
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2023-08-18T05:34:28Z",
             "owner": "Toyhom",
             "repo": "Chinese-medical-dialogue-data",
-            "stars": 1754
+            "stars": 1755
           }
         },
         {
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:58:05.637Z",
+    "last_updated": "2026-08-26T02:59:10.541Z",
     "original_repository": "GanjinZero/awesome_Chinese_medical_NLP",
     "original_repository_id": 218430828,
     "original_repository_sha": "794326e5d53bcce46032d2b18d2067977957655c",

@@ -30,7 +30,7 @@
 
 # 分词
 
-* [PKUSEG](https://github.com/lancopku/pkuseg-python) ⭐ 6,711 | 🐛 135 | 🌐 Python | 📅 2022-11-05 PKUSEG分词工具，模型支持选择医学
+* [PKUSEG](https://github.com/lancopku/pkuseg-python) ⭐ 6,710 | 🐛 135 | 🌐 Python | 📅 2022-11-05 PKUSEG分词工具，模型支持选择医学
 * [cmekg医学分词工具](https://zstp.pcl.ac.cn:8002/download/mws) [github](https://github.com/king-yyf/CMeKG_tools) ⭐ 1,493 | 🐛 22 | 🌐 Python | 📅 2023-11-03 cmekg医学分词
 * [GTS](https://github.com/GanjinZero/GTS) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2022-01-28 包含922句粗细两种粒度标注的中文医学分词测试集
 
@@ -61,7 +61,7 @@
 
 # QA
 
-* [中文医疗对话数据集](https://github.com/Toyhom/Chinese-medical-dialogue-data) ⭐ 1,754 | 🐛 6 | 🌐 Python | 📅 2023-08-18 Chinese medical dialogue data 中文医疗对话数据集
+* [中文医疗对话数据集](https://github.com/Toyhom/Chinese-medical-dialogue-data) ⭐ 1,755 | 🐛 6 | 🌐 Python | 📅 2023-08-18 Chinese medical dialogue data 中文医疗对话数据集
 * [KGQA](https://github.com/YeYzheng/KGQA-Based-On-medicine) ⭐ 1,278 | 🐛 18 | 🌐 JavaScript | 📅 2019-01-31 基于医药知识图谱的智能问答系统
 * [chatbot-base-on-Knowledge-Graph](https://github.com/baiyang2464/chatbot-base-on-Knowledge-Graph) ⭐ 792 | 🐛 27 | 🌐 Python | 📅 2019-09-07 使用深度学习方法解析问题 知识图谱存储 查询知识点 基于医疗垂直领域的对话系统
 * [cMedQA2](https://github.com/zhangsheng93/cMedQA2) ⭐ 386 | 🐛 4 | 📅 2019-01-09 中文医学QA数据集
@@ -98,4 +98,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
