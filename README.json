@@ -15,7 +15,7 @@
             "last_commit": "2023-04-03T01:21:32Z",
             "owner": "thunlp",
             "repo": "THUOCL",
-            "stars": 1114
+            "stars": 1116
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2019-04-01T05:00:12Z",
             "owner": "scienceasdf",
             "repo": "medical-books",
-            "stars": 725
+            "stars": 726
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2023-08-18T05:34:28Z",
             "owner": "Toyhom",
             "repo": "Chinese-medical-dialogue-data",
-            "stars": 1755
+            "stars": 1756
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2019-01-31T08:45:19Z",
             "owner": "YeYzheng",
             "repo": "KGQA-Based-On-medicine",
-            "stars": 1278
+            "stars": 1277
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2019-01-09T01:09:09Z",
             "owner": "zhangsheng93",
             "repo": "cMedQA2",
-            "stars": 386
+            "stars": 387
           }
         },
         {
@@ -383,9 +383,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:59:10.541Z",
-    "original_repository": "GanjinZero/awesome_Chinese_medical_NLP",
-    "original_repository_id": 218430828,
+    "last_updated": "2026-08-27T12:12:37.629Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 218430828,
+      "language": null,
+      "last_commit": "2024-01-17T06:47:55Z",
+      "owner": "GanjinZero",
+      "repo": "awesome_Chinese_medical_NLP",
+      "stars": 2623
+    },
     "original_repository_sha": "794326e5d53bcce46032d2b18d2067977957655c",
     "enhanced_repository": "enhansome/enhansome_Chinese_medical_NLP",
     "enhanced_repository_description": null,
