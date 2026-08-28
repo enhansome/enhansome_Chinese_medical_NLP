@@ -15,8 +15,9 @@
             "last_commit": "2023-04-03T01:21:32Z",
             "owner": "thunlp",
             "repo": "THUOCL",
-            "stars": 1116
-          }
+            "stars": 1117
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "scienceasdf",
             "repo": "medical-books",
             "stars": 726
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "chaseliu",
             "repo": "ICD-10-CN",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "flyyang",
             "repo": "medical-news",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         }
       ],
       "title": "术语集/语料库"
@@ -82,7 +86,8 @@
             "owner": "PaddlePaddle",
             "repo": "Research",
             "stars": 1763
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "GanjinZero",
             "repo": "ChineseEHRBert",
             "stars": 270
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "WENGSYX",
             "repo": "Chinese-Word2vec-Medicine",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "trueto",
             "repo": "medbert",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "lxy444",
             "repo": "bertcner",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "MatNLP",
             "repo": "SMedBERT",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         }
       ],
       "title": "词向量/预训练模型"
@@ -178,7 +188,8 @@
             "owner": "lancopku",
             "repo": "pkuseg-python",
             "stars": 6710
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         },
         {
           "node_type": "item",
@@ -192,8 +203,9 @@
             "last_commit": "2023-11-03T03:18:58Z",
             "owner": "king-yyf",
             "repo": "CMeKG_tools",
-            "stars": 1493
-          }
+            "stars": 1492
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "GanjinZero",
             "repo": "GTS",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         }
       ],
       "title": "分词"
@@ -228,8 +241,9 @@
             "last_commit": "2023-08-18T05:34:28Z",
             "owner": "Toyhom",
             "repo": "Chinese-medical-dialogue-data",
-            "stars": 1756
-          }
+            "stars": 1758
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "YeYzheng",
             "repo": "KGQA-Based-On-medicine",
             "stars": 1277
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "baiyang2464",
             "repo": "chatbot-base-on-Knowledge-Graph",
             "stars": 792
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "zhangsheng93",
             "repo": "cMedQA2",
             "stars": 387
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         },
         {
           "node_type": "item",
@@ -288,8 +305,9 @@
             "last_commit": "2019-10-22T08:03:29Z",
             "owner": "zhangsheng93",
             "repo": "cMedQA",
-            "stars": 114
-          }
+            "stars": 115
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "lemuria-wchen",
             "repo": "imcs21-cblue",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "liutongyang",
             "repo": "CMID",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "zhehengluoK",
             "repo": "Examinations-for-Medical-PErsonnel-in-Chinese",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         }
       ],
       "title": "QA"
@@ -355,7 +376,8 @@
             "owner": "zonghui0228",
             "repo": "chip2019task3",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         }
       ],
       "title": "文本分类"
@@ -376,14 +398,15 @@
             "owner": "trueto",
             "repo": "CCLUE",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
         }
       ],
       "title": "其他"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:15:50.449Z",
+    "last_updated": "2026-08-28T13:41:22.495Z",
     "original_repository_info": {
       "archived": false,
       "id": 218430828,
@@ -391,7 +414,7 @@
       "last_commit": "2024-01-17T06:47:55Z",
       "owner": "GanjinZero",
       "repo": "awesome_Chinese_medical_NLP",
-      "stars": 2623
+      "stars": 2624
     },
     "original_repository_sha": "794326e5d53bcce46032d2b18d2067977957655c",
     "enhanced_repository": "enhansome/enhansome_Chinese_medical_NLP",
