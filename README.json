@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "THUOCL（THU Open Chinese Lexicon）中文词库",
+            "homepage": null,
             "id": 158491299,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-04-03T01:21:32Z",
+            "open_issues": 6,
             "owner": "thunlp",
             "repo": "THUOCL",
-            "stars": 1117
+            "stars": 1117,
+            "topics": [
+              "chinese",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -26,12 +34,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open sourece medical books in LaTeX. LaTeX写的中文开源医学书籍",
+            "homepage": null,
             "id": 173288581,
             "language": "TeX",
+            "license": null,
             "last_commit": "2019-04-01T05:00:12Z",
+            "open_issues": 7,
             "owner": "scienceasdf",
             "repo": "medical-books",
-            "stars": 726
+            "stars": 726,
+            "topics": [
+              "chinese",
+              "latex",
+              "medical",
+              "opensource",
+              "textbook"
+            ]
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -42,12 +61,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ICD-10 Chinese Verion",
+            "homepage": null,
             "id": 90020830,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-05-03T02:05:04Z",
+            "open_issues": 0,
             "owner": "chaseliu",
             "repo": "ICD-10-CN",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -58,12 +82,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "spider for chinese medical websites with wechat notification enabled",
+            "homepage": null,
             "id": 92055757,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-05-24T14:29:06Z",
+            "open_issues": 0,
             "owner": "flyyang",
             "repo": "medical-news",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "pyquery",
+              "requests",
+              "spider",
+              "wechat"
+            ]
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         }
@@ -80,12 +114,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "novel deep learning research works with PaddlePaddle",
+            "homepage": null,
             "id": 240226378,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-16T02:42:22Z",
+            "open_issues": 137,
             "owner": "PaddlePaddle",
             "repo": "Research",
-            "stars": 1763
+            "stars": 1763,
+            "topics": [
+              "computer-vision",
+              "data-mining",
+              "deep-learning",
+              "knowledge-graph",
+              "nlp",
+              "spatial-temporal"
+            ]
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -96,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Chinese EHR Bert Pretrained Model.",
+            "homepage": null,
             "id": 214940727,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-07-14T02:40:37Z",
+            "open_issues": 5,
             "owner": "GanjinZero",
             "repo": "ChineseEHRBert",
-            "stars": 270
+            "stars": 270,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -112,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chinese Word2vec Medicine，中文医学词向量",
+            "homepage": null,
             "id": 375235521,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-02-26T19:12:26Z",
+            "open_issues": 4,
             "owner": "WENGSYX",
             "repo": "Chinese-Word2vec-Medicine",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -128,12 +184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "本项目开源硕士毕业论文“BERT模型在中文临床自然语言处理中的 应用探索与研究”相关模型",
+            "homepage": null,
             "id": 351619781,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-28T15:47:23Z",
+            "open_issues": 6,
             "owner": "trueto",
             "repo": "medbert",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -144,12 +205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chinese clinical named entity recognition using pre-trained BERT model",
+            "homepage": null,
             "id": 227759193,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-04-15T09:01:17Z",
+            "open_issues": 15,
             "owner": "lxy444",
             "repo": "bertcner",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -160,12 +226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SMedBERT: A Knowledge-Enhanced Pre-trained Language Model withStructured Semantics for Medical Text Mining",
+            "homepage": null,
             "id": 372204217,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-11-17T05:44:50Z",
+            "open_issues": 6,
             "owner": "MatNLP",
             "repo": "SMedBERT",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         }
@@ -182,12 +253,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation",
+            "homepage": null,
             "id": 143589809,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-05T13:37:41Z",
+            "open_issues": 135,
             "owner": "lancopku",
             "repo": "pkuseg-python",
-            "stars": 6710
+            "stars": 6710,
+            "topics": [
+              "chinese-word-segmentation"
+            ]
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -198,12 +276,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 418993137,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-03T03:18:58Z",
+            "open_issues": 22,
             "owner": "king-yyf",
             "repo": "CMeKG_tools",
-            "stars": 1492
+            "stars": 1492,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -214,12 +297,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Unsupervised multi-granular Chinese word segmentation and term discovery via graph partition [JBI]",
+            "homepage": "https://doi.org/10.1016/j.jbi.2020.103542",
             "id": 229002491,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-28T01:43:26Z",
+            "open_issues": 0,
             "owner": "GanjinZero",
             "repo": "GTS",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "chinese-word-segmentation",
+              "graph-cut",
+              "unsupervised"
+            ]
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         }
@@ -236,12 +328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chinese medical dialogue data 中文医疗对话数据集",
+            "homepage": null,
             "id": 226781922,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-18T05:34:28Z",
+            "open_issues": 6,
             "owner": "Toyhom",
             "repo": "Chinese-medical-dialogue-data",
-            "stars": 1758
+            "stars": 1759,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -252,12 +349,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于医药知识图谱的智能问答系统",
+            "homepage": null,
             "id": 126259224,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-01-31T08:45:19Z",
+            "open_issues": 18,
             "owner": "YeYzheng",
             "repo": "KGQA-Based-On-medicine",
-            "stars": 1277
+            "stars": 1277,
+            "topics": [
+              "kgqa",
+              "nlp",
+              "python3",
+              "qa",
+              "rdf"
+            ]
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -268,12 +376,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用深度学习方法解析问题 知识图谱存储 查询知识点 基于医疗垂直领域的对话系统",
+            "homepage": null,
             "id": 203790396,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-09-07T09:09:25Z",
+            "open_issues": 27,
             "owner": "baiyang2464",
             "repo": "chatbot-base-on-Knowledge-Graph",
-            "stars": 792
+            "stars": 792,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -284,12 +397,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is updated version of the dataset for Chinese community medical question answering.",
+            "homepage": null,
             "id": 156634102,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2019-01-09T01:09:09Z",
+            "open_issues": 4,
             "owner": "zhangsheng93",
             "repo": "cMedQA2",
-            "stars": 387
+            "stars": 388,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -300,12 +418,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the dataset for Chinese community medical question answering. ",
+            "homepage": null,
             "id": 87072617,
             "language": null,
+            "license": null,
             "last_commit": "2019-10-22T08:03:29Z",
+            "open_issues": 2,
             "owner": "zhangsheng93",
             "repo": "cMedQA",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -316,12 +439,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the repo of the medical dialogue dataset 'imcs21' in CBLUE@Tianchi",
+            "homepage": null,
             "id": 451294217,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-27T02:10:03Z",
+            "open_issues": 4,
             "owner": "lemuria-wchen",
             "repo": "imcs21-cblue",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "annotated-corpora",
+              "bioinformatics",
+              "healthcare-application",
+              "medical-dialogue",
+              "natural-language-understanding"
+            ]
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -332,12 +466,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chinese Medical Intent Dataset",
+            "homepage": null,
             "id": 216487994,
             "language": null,
+            "license": null,
             "last_commit": "2023-01-03T12:40:40Z",
+            "open_issues": 2,
             "owner": "liutongyang",
             "repo": "CMID",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "dataset",
+              "intent-classification"
+            ]
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -348,12 +490,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "this is a repo to provide a test to measure language models' ability to understand medical question and answer in Chinese (Traditional and Simplified)",
+            "homepage": null,
             "id": 669026741,
             "language": null,
+            "license": null,
             "last_commit": "2024-02-23T05:44:00Z",
+            "open_issues": 0,
             "owner": "zhehengluoK",
             "repo": "Examinations-for-Medical-PErsonnel-in-Chinese",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         }
@@ -370,12 +517,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "第五届中国健康信息处理会议（CHIP2019）- 评测三：临床试验筛选标准短文本分类",
+            "homepage": null,
             "id": 313663192,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-05-12T04:04:33Z",
+            "open_issues": 1,
             "owner": "zonghui0228",
             "repo": "chip2019task3",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "cblue",
+              "chip2019",
+              "clinical-trial",
+              "eligibility-criteria",
+              "medical-text-mining",
+              "text-classification"
+            ]
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         }
@@ -392,12 +551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A benchmark for Chinese ClinicalLanguage Understanding Evalution（CCLUE）",
+            "homepage": null,
             "id": 279242288,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-07-15T13:59:29Z",
+            "open_issues": 0,
             "owner": "trueto",
             "repo": "CCLUE",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         }
@@ -406,15 +570,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:41:22.495Z",
+    "last_updated": "2026-08-29T04:26:47.710Z",
     "original_repository_info": {
       "archived": false,
+      "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
+      "homepage": null,
       "id": 218430828,
       "language": null,
+      "license": null,
       "last_commit": "2024-01-17T06:47:55Z",
+      "open_issues": 2,
       "owner": "GanjinZero",
       "repo": "awesome_Chinese_medical_NLP",
-      "stars": 2624
+      "stars": 2625,
+      "topics": [
+        "dataset",
+        "dictionary",
+        "knowledge-graph",
+        "medical",
+        "model",
+        "nlp",
+        "resource"
+      ]
     },
     "original_repository_sha": "794326e5d53bcce46032d2b18d2067977957655c",
     "enhanced_repository": "enhansome/enhansome_Chinese_medical_NLP",
