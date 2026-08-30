@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "thunlp",
             "repo": "THUOCL",
-            "stars": 1117,
+            "stars": 1118,
             "topics": [
               "chinese",
               "nlp"
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:32:47.080Z",
+    "last_updated": "2026-08-30T07:45:39.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
