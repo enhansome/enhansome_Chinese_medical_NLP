@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "thunlp",
             "repo": "THUOCL",
-            "stars": 1118,
+            "stars": 1119,
             "topics": [
               "chinese",
               "nlp"
@@ -70,7 +70,7 @@
             "open_issues": 0,
             "owner": "chaseliu",
             "repo": "ICD-10-CN",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
@@ -262,7 +262,7 @@
             "open_issues": 135,
             "owner": "lancopku",
             "repo": "pkuseg-python",
-            "stars": 6710,
+            "stars": 6711,
             "topics": [
               "chinese-word-segmentation"
             ]
@@ -285,7 +285,7 @@
             "open_issues": 22,
             "owner": "king-yyf",
             "repo": "CMeKG_tools",
-            "stars": 1492,
+            "stars": 1493,
             "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
@@ -358,7 +358,7 @@
             "open_issues": 18,
             "owner": "YeYzheng",
             "repo": "KGQA-Based-On-medicine",
-            "stars": 1277,
+            "stars": 1276,
             "topics": [
               "kgqa",
               "nlp",
@@ -406,7 +406,7 @@
             "open_issues": 4,
             "owner": "zhangsheng93",
             "repo": "cMedQA2",
-            "stars": 388,
+            "stars": 389,
             "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T07:45:39.083Z",
+    "last_updated": "2026-08-31T08:00:06.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
