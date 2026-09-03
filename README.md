@@ -8,7 +8,7 @@
 
 # 术语集/语料库
 
-* [THUOCL](https://github.com/thunlp/THUOCL) ⭐ 1,122 | 🐛 6 | 📅 2023-04-03 清华大学thunlp组医学词汇
+* [THUOCL](https://github.com/thunlp/THUOCL) ⭐ 1,123 | 🐛 6 | 📅 2023-04-03 清华大学thunlp组医学词汇
 * [medical-books](https://github.com/scienceasdf/medical-books) ⭐ 728 | 🐛 7 | 🌐 TeX | 📅 2019-04-01 中文LaTex开源医学书籍
 * [ICD10](https://github.com/chaseliu/ICD-10-CN) ⭐ 60 | 🐛 0 | 🌐 Python | 📅 2017-05-03 ICD-10中文对应
 * [medical-news](https://github.com/flyyang/medical-news) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2017-05-24 中文医学新闻爬虫
@@ -61,7 +61,7 @@
 
 # QA
 
-* [中文医疗对话数据集](https://github.com/Toyhom/Chinese-medical-dialogue-data) ⭐ 1,760 | 🐛 6 | 🌐 Python | 📅 2023-08-18 Chinese medical dialogue data 中文医疗对话数据集
+* [中文医疗对话数据集](https://github.com/Toyhom/Chinese-medical-dialogue-data) ⭐ 1,761 | 🐛 6 | 🌐 Python | 📅 2023-08-18 Chinese medical dialogue data 中文医疗对话数据集
 * [KGQA](https://github.com/YeYzheng/KGQA-Based-On-medicine) ⭐ 1,277 | 🐛 18 | 🌐 JavaScript | 📅 2019-01-31 基于医药知识图谱的智能问答系统
 * [chatbot-base-on-Knowledge-Graph](https://github.com/baiyang2464/chatbot-base-on-Knowledge-Graph) ⭐ 792 | 🐛 27 | 🌐 Python | 📅 2019-09-07 使用深度学习方法解析问题 知识图谱存储 查询知识点 基于医疗垂直领域的对话系统
 * [cMedQA2](https://github.com/zhangsheng93/cMedQA2) ⭐ 389 | 🐛 4 | 📅 2019-01-09 中文医学QA数据集
@@ -98,4 +98,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "thunlp",
             "repo": "THUOCL",
-            "stars": 1122,
+            "stars": 1123,
             "topics": [
               "chinese",
               "nlp"
@@ -337,7 +337,7 @@
             "open_issues": 6,
             "owner": "Toyhom",
             "repo": "Chinese-medical-dialogue-data",
-            "stars": 1760,
+            "stars": 1761,
             "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T06:43:47.887Z",
+    "last_updated": "2026-09-03T06:46:08.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
@@ -582,7 +582,7 @@
       "open_issues": 2,
       "owner": "GanjinZero",
       "repo": "awesome_Chinese_medical_NLP",
-      "stars": 2627,
+      "stars": 2628,
       "topics": [
         "dataset",
         "dictionary",
