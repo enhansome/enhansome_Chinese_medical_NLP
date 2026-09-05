@@ -193,7 +193,7 @@
             "open_issues": 6,
             "owner": "trueto",
             "repo": "medbert",
-            "stars": 134,
+            "stars": 135,
             "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
@@ -262,7 +262,7 @@
             "open_issues": 135,
             "owner": "lancopku",
             "repo": "pkuseg-python",
-            "stars": 6710,
+            "stars": 6709,
             "topics": [
               "chinese-word-segmentation"
             ]
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T06:51:24.967Z",
+    "last_updated": "2026-09-05T06:36:10.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
@@ -582,7 +582,7 @@
       "open_issues": 2,
       "owner": "GanjinZero",
       "repo": "awesome_Chinese_medical_NLP",
-      "stars": 2629,
+      "stars": 2630,
       "topics": [
         "dataset",
         "dictionary",
