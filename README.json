@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "thunlp",
             "repo": "THUOCL",
-            "stars": 1124,
+            "stars": 1125,
             "topics": [
               "chinese",
               "nlp"
@@ -43,7 +43,7 @@
             "open_issues": 7,
             "owner": "scienceasdf",
             "repo": "medical-books",
-            "stars": 728,
+            "stars": 729,
             "topics": [
               "chinese",
               "latex",
@@ -262,7 +262,7 @@
             "open_issues": 135,
             "owner": "lancopku",
             "repo": "pkuseg-python",
-            "stars": 6709,
+            "stars": 6708,
             "topics": [
               "chinese-word-segmentation"
             ]
@@ -285,7 +285,7 @@
             "open_issues": 22,
             "owner": "king-yyf",
             "repo": "CMeKG_tools",
-            "stars": 1492,
+            "stars": 1493,
             "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
@@ -337,7 +337,7 @@
             "open_issues": 6,
             "owner": "Toyhom",
             "repo": "Chinese-medical-dialogue-data",
-            "stars": 1762,
+            "stars": 1761,
             "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
@@ -448,7 +448,7 @@
             "open_issues": 4,
             "owner": "lemuria-wchen",
             "repo": "imcs21-cblue",
-            "stars": 110,
+            "stars": 111,
             "topics": [
               "annotated-corpora",
               "bioinformatics",
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:36:10.241Z",
+    "last_updated": "2026-09-06T06:46:02.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
