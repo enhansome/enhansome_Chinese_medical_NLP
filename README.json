@@ -43,7 +43,7 @@
             "open_issues": 7,
             "owner": "scienceasdf",
             "repo": "medical-books",
-            "stars": 729,
+            "stars": 730,
             "topics": [
               "chinese",
               "latex",
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T06:59:09.512Z",
+    "last_updated": "2026-09-10T06:55:48.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
@@ -582,7 +582,7 @@
       "open_issues": 2,
       "owner": "GanjinZero",
       "repo": "awesome_Chinese_medical_NLP",
-      "stars": 2631,
+      "stars": 2633,
       "topics": [
         "dataset",
         "dictionary",

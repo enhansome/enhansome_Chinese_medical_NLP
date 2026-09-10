@@ -9,7 +9,7 @@
 # 术语集/语料库
 
 * [THUOCL](https://github.com/thunlp/THUOCL) ⭐ 1,125 | 🐛 6 | 📅 2023-04-03 清华大学thunlp组医学词汇
-* [medical-books](https://github.com/scienceasdf/medical-books) ⭐ 729 | 🐛 7 | 🌐 TeX | 📅 2019-04-01 中文LaTex开源医学书籍
+* [medical-books](https://github.com/scienceasdf/medical-books) ⭐ 730 | 🐛 7 | 🌐 TeX | 📅 2019-04-01 中文LaTex开源医学书籍
 * [ICD10](https://github.com/chaseliu/ICD-10-CN) ⭐ 60 | 🐛 0 | 🌐 Python | 📅 2017-05-03 ICD-10中文对应
 * [medical-news](https://github.com/flyyang/medical-news) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2017-05-24 中文医学新闻爬虫
 * [ICD9](https://athena.ohdsi.org/search-terms/terms?vocabulary=ICD9ProcCN\&page=1\&pageSize=15\&query=)  ICD-9中文对应
@@ -98,4 +98,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
