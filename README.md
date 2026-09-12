@@ -8,7 +8,7 @@
 
 # 术语集/语料库
 
-* [THUOCL](https://github.com/thunlp/THUOCL) ⭐ 1,125 | 🐛 6 | 📅 2023-04-03 清华大学thunlp组医学词汇
+* [THUOCL](https://github.com/thunlp/THUOCL) ⭐ 1,127 | 🐛 6 | 📅 2023-04-03 清华大学thunlp组医学词汇
 * [medical-books](https://github.com/scienceasdf/medical-books) ⭐ 730 | 🐛 7 | 🌐 TeX | 📅 2019-04-01 中文LaTex开源医学书籍
 * [ICD10](https://github.com/chaseliu/ICD-10-CN) ⭐ 60 | 🐛 0 | 🌐 Python | 📅 2017-05-03 ICD-10中文对应
 * [medical-news](https://github.com/flyyang/medical-news) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2017-05-24 中文医学新闻爬虫
@@ -30,7 +30,7 @@
 
 # 分词
 
-* [PKUSEG](https://github.com/lancopku/pkuseg-python) ⭐ 6,707 | 🐛 135 | 🌐 Python | 📅 2022-11-05 PKUSEG分词工具，模型支持选择医学
+* [PKUSEG](https://github.com/lancopku/pkuseg-python) ⭐ 6,706 | 🐛 135 | 🌐 Python | 📅 2022-11-05 PKUSEG分词工具，模型支持选择医学
 * [cmekg医学分词工具](https://zstp.pcl.ac.cn:8002/download/mws) [github](https://github.com/king-yyf/CMeKG_tools) ⭐ 1,495 | 🐛 22 | 🌐 Python | 📅 2023-11-03 cmekg医学分词
 * [GTS](https://github.com/GanjinZero/GTS) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2022-01-28 包含922句粗细两种粒度标注的中文医学分词测试集
 
@@ -61,12 +61,12 @@
 
 # QA
 
-* [中文医疗对话数据集](https://github.com/Toyhom/Chinese-medical-dialogue-data) ⭐ 1,763 | 🐛 6 | 🌐 Python | 📅 2023-08-18 Chinese medical dialogue data 中文医疗对话数据集
+* [中文医疗对话数据集](https://github.com/Toyhom/Chinese-medical-dialogue-data) ⭐ 1,764 | 🐛 6 | 🌐 Python | 📅 2023-08-18 Chinese medical dialogue data 中文医疗对话数据集
 * [KGQA](https://github.com/YeYzheng/KGQA-Based-On-medicine) ⭐ 1,277 | 🐛 18 | 🌐 JavaScript | 📅 2019-01-31 基于医药知识图谱的智能问答系统
 * [chatbot-base-on-Knowledge-Graph](https://github.com/baiyang2464/chatbot-base-on-Knowledge-Graph) ⭐ 792 | 🐛 27 | 🌐 Python | 📅 2019-09-07 使用深度学习方法解析问题 知识图谱存储 查询知识点 基于医疗垂直领域的对话系统
-* [cMedQA2](https://github.com/zhangsheng93/cMedQA2) ⭐ 389 | 🐛 4 | 📅 2019-01-09 中文医学QA数据集
+* [cMedQA2](https://github.com/zhangsheng93/cMedQA2) ⭐ 390 | 🐛 4 | 📅 2019-01-09 中文医学QA数据集
 * [cMedQA](https://github.com/zhangsheng93/cMedQA) ⭐ 115 | 🐛 2 | 📅 2019-10-22 中文医学QA数据集
-* [IMCS21](https://github.com/lemuria-wchen/imcs21-cblue) ⭐ 111 | 🐛 4 | 🌐 Python | 📅 2022-12-27 CBLUE\@Tianchi 中医疗对话数据集 IMCS21
+* [IMCS21](https://github.com/lemuria-wchen/imcs21-cblue) ⭐ 112 | 🐛 4 | 🌐 Python | 📅 2022-12-27 CBLUE\@Tianchi 中医疗对话数据集 IMCS21
 * [CMID](https://github.com/liutongyang/CMID) ⭐ 1 | 🐛 2 | 📅 2023-01-03 中文医学QA意图理解数据集
 * [EMPEC](https://github.com/zhehengluoK/Examinations-for-Medical-PErsonnel-in-Chinese) ⭐ 1 | 🐛 0 | 📅 2024-02-23 Examinations-for-Medical-PErsonnel-in-Chinese (EMPEC)
 * [CCIR2019](https://www.biendata.com/competition/ccir2019/) CCIR 2019 基于电子病历的数据查询类问答
@@ -98,4 +98,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
