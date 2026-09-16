@@ -8,7 +8,7 @@
 
 # 术语集/语料库
 
-* [THUOCL](https://github.com/thunlp/THUOCL) ⭐ 1,130 | 🐛 6 | 📅 2023-04-03 清华大学thunlp组医学词汇
+* [THUOCL](https://github.com/thunlp/THUOCL) ⭐ 1,132 | 🐛 6 | 📅 2023-04-03 清华大学thunlp组医学词汇
 * [medical-books](https://github.com/scienceasdf/medical-books) ⭐ 731 | 🐛 7 | 🌐 TeX | 📅 2019-04-01 中文LaTex开源医学书籍
 * [ICD10](https://github.com/chaseliu/ICD-10-CN) ⭐ 60 | 🐛 0 | 🌐 Python | 📅 2017-05-03 ICD-10中文对应
 * [medical-news](https://github.com/flyyang/medical-news) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2017-05-24 中文医学新闻爬虫
@@ -30,7 +30,7 @@
 
 # 分词
 
-* [PKUSEG](https://github.com/lancopku/pkuseg-python) ⭐ 6,705 | 🐛 135 | 🌐 Python | 📅 2022-11-05 PKUSEG分词工具，模型支持选择医学
+* [PKUSEG](https://github.com/lancopku/pkuseg-python) ⭐ 6,707 | 🐛 135 | 🌐 Python | 📅 2022-11-05 PKUSEG分词工具，模型支持选择医学
 * [cmekg医学分词工具](https://zstp.pcl.ac.cn:8002/download/mws) [github](https://github.com/king-yyf/CMeKG_tools) ⭐ 1,496 | 🐛 22 | 🌐 Python | 📅 2023-11-03 cmekg医学分词
 * [GTS](https://github.com/GanjinZero/GTS) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2022-01-28 包含922句粗细两种粒度标注的中文医学分词测试集
 
@@ -98,4 +98,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
