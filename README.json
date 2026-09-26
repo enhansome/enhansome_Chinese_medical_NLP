@@ -285,7 +285,7 @@
             "open_issues": 22,
             "owner": "king-yyf",
             "repo": "CMeKG_tools",
-            "stars": 1497,
+            "stars": 1498,
             "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T07:01:06.478Z",
+    "last_updated": "2026-09-26T06:58:41.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
@@ -582,7 +582,7 @@
       "open_issues": 2,
       "owner": "GanjinZero",
       "repo": "awesome_Chinese_medical_NLP",
-      "stars": 2639,
+      "stars": 2640,
       "topics": [
         "dataset",
         "dictionary",
