@@ -123,7 +123,7 @@
             "open_issues": 137,
             "owner": "PaddlePaddle",
             "repo": "Research",
-            "stars": 1767,
+            "stars": 1768,
             "topics": [
               "computer-vision",
               "data-mining",
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T06:58:41.156Z",
+    "last_updated": "2026-09-27T07:29:12.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
@@ -582,7 +582,7 @@
       "open_issues": 2,
       "owner": "GanjinZero",
       "repo": "awesome_Chinese_medical_NLP",
-      "stars": 2640,
+      "stars": 2641,
       "topics": [
         "dataset",
         "dictionary",

@@ -19,7 +19,7 @@
 
 # 词向量/预训练模型
 
-* [eHealth](https://github.com/PaddlePaddle/Research/tree/master/KG/eHealth) ⭐ 1,767 | 🐛 137 | 🌐 Python | 📅 2024-08-16 Building Chinese Biomedical Language Models via Multi-Level Text Discrimination
+* [eHealth](https://github.com/PaddlePaddle/Research/tree/master/KG/eHealth) ⭐ 1,768 | 🐛 137 | 🌐 Python | 📅 2024-08-16 Building Chinese Biomedical Language Models via Multi-Level Text Discrimination
 * [ChineseEHRBert](https://github.com/GanjinZero/ChineseEHRBert) ⭐ 270 | 🐛 5 | 🌐 Python | 📅 2021-07-14 中文电子病历预训练Bert；用Bert测试命名实体识别，问答模型，关系提取任务
 * [Chinese-Word2vec-Medicine](https://github.com/WENGSYX/Chinese-Word2vec-Medicine) ⭐ 213 | 🐛 4 | 🌐 Python | 📅 2025-02-26 中文生物医学领域词向量
 * [medbert](https://github.com/trueto/medbert) ⭐ 135 | 🐛 6 | 🌐 Python | 📅 2021-04-28 BERT模型在中文临床自然语言处理中的应用探索与研究
@@ -98,4 +98,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
