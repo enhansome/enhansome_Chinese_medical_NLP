@@ -43,7 +43,7 @@
             "open_issues": 7,
             "owner": "scienceasdf",
             "repo": "medical-books",
-            "stars": 736,
+            "stars": 737,
             "topics": [
               "chinese",
               "latex",
@@ -172,7 +172,7 @@
             "open_issues": 4,
             "owner": "WENGSYX",
             "repo": "Chinese-Word2vec-Medicine",
-            "stars": 213,
+            "stars": 212,
             "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
@@ -262,7 +262,7 @@
             "open_issues": 135,
             "owner": "lancopku",
             "repo": "pkuseg-python",
-            "stars": 6709,
+            "stars": 6708,
             "topics": [
               "chinese-word-segmentation"
             ]
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T07:50:26.295Z",
+    "last_updated": "2026-10-01T08:10:48.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
