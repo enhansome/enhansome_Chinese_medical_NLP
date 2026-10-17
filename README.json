@@ -358,7 +358,7 @@
             "open_issues": 18,
             "owner": "YeYzheng",
             "repo": "KGQA-Based-On-medicine",
-            "stars": 1279,
+            "stars": 1280,
             "topics": [
               "kgqa",
               "nlp",
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T06:39:28.115Z",
+    "last_updated": "2026-10-17T06:28:26.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
