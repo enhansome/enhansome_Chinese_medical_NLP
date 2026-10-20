@@ -43,7 +43,7 @@
             "open_issues": 7,
             "owner": "scienceasdf",
             "repo": "medical-books",
-            "stars": 740,
+            "stars": 741,
             "topics": [
               "chinese",
               "latex",
@@ -262,7 +262,7 @@
             "open_issues": 135,
             "owner": "lancopku",
             "repo": "pkuseg-python",
-            "stars": 6709,
+            "stars": 6710,
             "topics": [
               "chinese-word-segmentation"
             ]
@@ -358,7 +358,7 @@
             "open_issues": 18,
             "owner": "YeYzheng",
             "repo": "KGQA-Based-On-medicine",
-            "stars": 1280,
+            "stars": 1279,
             "topics": [
               "kgqa",
               "nlp",
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T07:13:23.637Z",
+    "last_updated": "2026-10-20T07:01:41.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
