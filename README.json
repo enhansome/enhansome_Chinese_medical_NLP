@@ -337,7 +337,7 @@
             "open_issues": 6,
             "owner": "Toyhom",
             "repo": "Chinese-medical-dialogue-data",
-            "stars": 1775,
+            "stars": 1774,
             "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
@@ -448,7 +448,7 @@
             "open_issues": 4,
             "owner": "lemuria-wchen",
             "repo": "imcs21-cblue",
-            "stars": 113,
+            "stars": 114,
             "topics": [
               "annotated-corpora",
               "bioinformatics",
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T06:59:10.177Z",
+    "last_updated": "2026-10-23T06:51:50.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
