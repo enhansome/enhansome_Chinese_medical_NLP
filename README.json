@@ -358,7 +358,7 @@
             "open_issues": 18,
             "owner": "YeYzheng",
             "repo": "KGQA-Based-On-medicine",
-            "stars": 1279,
+            "stars": 1278,
             "topics": [
               "kgqa",
               "nlp",
@@ -385,7 +385,7 @@
             "open_issues": 27,
             "owner": "baiyang2464",
             "repo": "chatbot-base-on-Knowledge-Graph",
-            "stars": 792,
+            "stars": 793,
             "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T06:47:52.681Z",
+    "last_updated": "2026-10-25T07:11:41.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",

@@ -62,8 +62,8 @@
 # QA
 
 * [中文医疗对话数据集](https://github.com/Toyhom/Chinese-medical-dialogue-data) ⭐ 1,776 | 🐛 6 | 🌐 Python | 📅 2023-08-18 Chinese medical dialogue data 中文医疗对话数据集
-* [KGQA](https://github.com/YeYzheng/KGQA-Based-On-medicine) ⭐ 1,279 | 🐛 18 | 🌐 JavaScript | 📅 2019-01-31 基于医药知识图谱的智能问答系统
-* [chatbot-base-on-Knowledge-Graph](https://github.com/baiyang2464/chatbot-base-on-Knowledge-Graph) ⭐ 792 | 🐛 27 | 🌐 Python | 📅 2019-09-07 使用深度学习方法解析问题 知识图谱存储 查询知识点 基于医疗垂直领域的对话系统
+* [KGQA](https://github.com/YeYzheng/KGQA-Based-On-medicine) ⭐ 1,278 | 🐛 18 | 🌐 JavaScript | 📅 2019-01-31 基于医药知识图谱的智能问答系统
+* [chatbot-base-on-Knowledge-Graph](https://github.com/baiyang2464/chatbot-base-on-Knowledge-Graph) ⭐ 793 | 🐛 27 | 🌐 Python | 📅 2019-09-07 使用深度学习方法解析问题 知识图谱存储 查询知识点 基于医疗垂直领域的对话系统
 * [cMedQA2](https://github.com/zhangsheng93/cMedQA2) ⭐ 395 | 🐛 4 | 📅 2019-01-09 中文医学QA数据集
 * [cMedQA](https://github.com/zhangsheng93/cMedQA) ⭐ 115 | 🐛 2 | 📅 2019-10-22 中文医学QA数据集
 * [IMCS21](https://github.com/lemuria-wchen/imcs21-cblue) ⭐ 114 | 🐛 4 | 🌐 Python | 📅 2022-12-27 CBLUE\@Tianchi 中医疗对话数据集 IMCS21
@@ -98,4 +98,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
