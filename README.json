@@ -123,7 +123,7 @@
             "open_issues": 137,
             "owner": "PaddlePaddle",
             "repo": "Research",
-            "stars": 1770,
+            "stars": 1771,
             "topics": [
               "computer-vision",
               "data-mining",
@@ -262,7 +262,7 @@
             "open_issues": 136,
             "owner": "lancopku",
             "repo": "pkuseg-python",
-            "stars": 6714,
+            "stars": 6713,
             "topics": [
               "chinese-word-segmentation"
             ]
@@ -358,7 +358,7 @@
             "open_issues": 18,
             "owner": "YeYzheng",
             "repo": "KGQA-Based-On-medicine",
-            "stars": 1278,
+            "stars": 1279,
             "topics": [
               "kgqa",
               "nlp",
@@ -448,7 +448,7 @@
             "open_issues": 4,
             "owner": "lemuria-wchen",
             "repo": "imcs21-cblue",
-            "stars": 114,
+            "stars": 115,
             "topics": [
               "annotated-corpora",
               "bioinformatics",
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T07:50:23.686Z",
+    "last_updated": "2026-10-29T07:56:04.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
@@ -582,7 +582,7 @@
       "open_issues": 2,
       "owner": "GanjinZero",
       "repo": "awesome_Chinese_medical_NLP",
-      "stars": 2654,
+      "stars": 2653,
       "topics": [
         "dataset",
         "dictionary",
