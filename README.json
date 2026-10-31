@@ -123,7 +123,7 @@
             "open_issues": 137,
             "owner": "PaddlePaddle",
             "repo": "Research",
-            "stars": 1772,
+            "stars": 1774,
             "topics": [
               "computer-vision",
               "data-mining",
@@ -262,7 +262,7 @@
             "open_issues": 136,
             "owner": "lancopku",
             "repo": "pkuseg-python",
-            "stars": 6714,
+            "stars": 6713,
             "topics": [
               "chinese-word-segmentation"
             ]
@@ -337,7 +337,7 @@
             "open_issues": 6,
             "owner": "Toyhom",
             "repo": "Chinese-medical-dialogue-data",
-            "stars": 1776,
+            "stars": 1777,
             "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
@@ -413,6 +413,33 @@
         },
         {
           "node_type": "item",
+          "title": "IMCS21",
+          "description": "CBLUE@Tianchi 中医疗对话数据集 IMCS21",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This is the repo of the medical dialogue dataset 'imcs21' in CBLUE@Tianchi",
+            "homepage": null,
+            "id": 451294217,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2022-12-27T02:10:03Z",
+            "open_issues": 4,
+            "owner": "lemuria-wchen",
+            "repo": "imcs21-cblue",
+            "stars": 116,
+            "topics": [
+              "annotated-corpora",
+              "bioinformatics",
+              "healthcare-application",
+              "medical-dialogue",
+              "natural-language-understanding"
+            ]
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
+        },
+        {
+          "node_type": "item",
           "title": "cMedQA",
           "description": "中文医学QA数据集",
           "children": [],
@@ -429,33 +456,6 @@
             "repo": "cMedQA",
             "stars": 115,
             "topics": []
-          },
-          "first_seen": "2026-08-28T13:41:22.495Z"
-        },
-        {
-          "node_type": "item",
-          "title": "IMCS21",
-          "description": "CBLUE@Tianchi 中医疗对话数据集 IMCS21",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This is the repo of the medical dialogue dataset 'imcs21' in CBLUE@Tianchi",
-            "homepage": null,
-            "id": 451294217,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2022-12-27T02:10:03Z",
-            "open_issues": 4,
-            "owner": "lemuria-wchen",
-            "repo": "imcs21-cblue",
-            "stars": 115,
-            "topics": [
-              "annotated-corpora",
-              "bioinformatics",
-              "healthcare-application",
-              "medical-dialogue",
-              "natural-language-understanding"
-            ]
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T07:58:32.346Z",
+    "last_updated": "2026-10-31T07:54:07.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
