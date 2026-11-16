@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "thunlp",
             "repo": "THUOCL",
-            "stars": 1153,
+            "stars": 1154,
             "topics": [
               "chinese",
               "nlp"
@@ -406,7 +406,7 @@
             "open_issues": 4,
             "owner": "zhangsheng93",
             "repo": "cMedQA2",
-            "stars": 395,
+            "stars": 396,
             "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T08:44:03.653Z",
+    "last_updated": "2026-11-16T08:54:50.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
