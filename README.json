@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "thunlp",
             "repo": "THUOCL",
-            "stars": 1154,
+            "stars": 1155,
             "topics": [
               "chinese",
               "nlp"
@@ -262,7 +262,7 @@
             "open_issues": 136,
             "owner": "lancopku",
             "repo": "pkuseg-python",
-            "stars": 6713,
+            "stars": 6712,
             "topics": [
               "chinese-word-segmentation"
             ]
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T08:54:50.662Z",
+    "last_updated": "2026-11-17T10:01:25.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
