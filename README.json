@@ -406,7 +406,28 @@
             "open_issues": 4,
             "owner": "zhangsheng93",
             "repo": "cMedQA2",
-            "stars": 396,
+            "stars": 397,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T13:41:22.495Z"
+        },
+        {
+          "node_type": "item",
+          "title": "cMedQA",
+          "description": "中文医学QA数据集",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This is the dataset for Chinese community medical question answering. ",
+            "homepage": null,
+            "id": 87072617,
+            "language": null,
+            "license": null,
+            "last_commit": "2019-10-22T08:03:29Z",
+            "open_issues": 2,
+            "owner": "zhangsheng93",
+            "repo": "cMedQA",
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
@@ -435,27 +456,6 @@
               "medical-dialogue",
               "natural-language-understanding"
             ]
-          },
-          "first_seen": "2026-08-28T13:41:22.495Z"
-        },
-        {
-          "node_type": "item",
-          "title": "cMedQA",
-          "description": "中文医学QA数据集",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This is the dataset for Chinese community medical question answering. ",
-            "homepage": null,
-            "id": 87072617,
-            "language": null,
-            "license": null,
-            "last_commit": "2019-10-22T08:03:29Z",
-            "open_issues": 2,
-            "owner": "zhangsheng93",
-            "repo": "cMedQA",
-            "stars": 115,
-            "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
         },
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T09:38:51.356Z",
+    "last_updated": "2026-11-19T09:45:12.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
