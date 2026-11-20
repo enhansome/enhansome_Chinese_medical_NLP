@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "thunlp",
             "repo": "THUOCL",
-            "stars": 1155,
+            "stars": 1156,
             "topics": [
               "chinese",
               "nlp"
@@ -43,7 +43,7 @@
             "open_issues": 7,
             "owner": "scienceasdf",
             "repo": "medical-books",
-            "stars": 747,
+            "stars": 748,
             "topics": [
               "chinese",
               "latex",
@@ -123,7 +123,7 @@
             "open_issues": 137,
             "owner": "PaddlePaddle",
             "repo": "Research",
-            "stars": 1774,
+            "stars": 1773,
             "topics": [
               "computer-vision",
               "data-mining",
@@ -262,7 +262,7 @@
             "open_issues": 136,
             "owner": "lancopku",
             "repo": "pkuseg-python",
-            "stars": 6712,
+            "stars": 6709,
             "topics": [
               "chinese-word-segmentation"
             ]
@@ -285,7 +285,7 @@
             "open_issues": 22,
             "owner": "king-yyf",
             "repo": "CMeKG_tools",
-            "stars": 1511,
+            "stars": 1512,
             "topics": []
           },
           "first_seen": "2026-08-28T13:41:22.495Z"
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T09:45:12.597Z",
+    "last_updated": "2026-11-20T09:33:20.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
