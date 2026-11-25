@@ -4,12 +4,12 @@
 
 # Benchmark
 
-* [中文医疗信息处理挑战榜CBLUE数据集](https://tianchi.aliyun.com/cblue) [Baseline](https://github.com/CBLUEbenchmark/CBLUE) ⭐ 862 | 🐛 0 | 🌐 Python | 📅 2023-05-03 中文医疗信息处理挑战榜CBLUE(Chinese Biomedical Language Understanding Evaluation)是中国中文信息学会医疗健康与生物信息处理专业委员会在合法开放共享的理念下发起，由阿里云天池平台承办，并由医渡云（北京）技术有限公司、平安医疗科技、北京大学、郑州大学、鹏城实验室、哈尔滨工业大学(深圳）、同济大学、夸克、阿里巴巴达摩院等开展智慧医疗研究的单位共同协办，旨在推动中文医学NLP技术和社区的发展。
+* [中文医疗信息处理挑战榜CBLUE数据集](https://tianchi.aliyun.com/cblue) [Baseline](https://github.com/CBLUEbenchmark/CBLUE) ⭐ 863 | 🐛 0 | 🌐 Python | 📅 2023-05-03 中文医疗信息处理挑战榜CBLUE(Chinese Biomedical Language Understanding Evaluation)是中国中文信息学会医疗健康与生物信息处理专业委员会在合法开放共享的理念下发起，由阿里云天池平台承办，并由医渡云（北京）技术有限公司、平安医疗科技、北京大学、郑州大学、鹏城实验室、哈尔滨工业大学(深圳）、同济大学、夸克、阿里巴巴达摩院等开展智慧医疗研究的单位共同协办，旨在推动中文医学NLP技术和社区的发展。
 
 # 术语集/语料库
 
-* [THUOCL](https://github.com/thunlp/THUOCL) ⭐ 1,156 | 🐛 6 | 📅 2023-04-03 清华大学thunlp组医学词汇
-* [medical-books](https://github.com/scienceasdf/medical-books) ⭐ 749 | 🐛 7 | 🌐 TeX | 📅 2019-04-01 中文LaTex开源医学书籍
+* [THUOCL](https://github.com/thunlp/THUOCL) ⭐ 1,157 | 🐛 6 | 📅 2023-04-03 清华大学thunlp组医学词汇
+* [medical-books](https://github.com/scienceasdf/medical-books) ⭐ 750 | 🐛 7 | 🌐 TeX | 📅 2019-04-01 中文LaTex开源医学书籍
 * [ICD10](https://github.com/chaseliu/ICD-10-CN) ⭐ 60 | 🐛 0 | 🌐 Python | 📅 2017-05-03 ICD-10中文对应
 * [medical-news](https://github.com/flyyang/medical-news) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2017-05-24 中文医学新闻爬虫
 * [ICD9](https://athena.ohdsi.org/search-terms/terms?vocabulary=ICD9ProcCN\&page=1\&pageSize=15\&query=)  ICD-9中文对应
@@ -98,4 +98,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
